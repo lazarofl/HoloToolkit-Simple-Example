@@ -1,0 +1,1 @@
+C:\Users\lazaro.fernandes\Documents\hololens\o-novo-holotoolkit\O novo HoloToolkit\WindowsStoreApp\O novo HoloToolkit\O novo HoloToolkit.csproj;x86
